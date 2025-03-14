@@ -27,7 +27,7 @@ A voice-controlled AI assistant that enables hands-free YouTube search and playb
 
 ## 📂 Project Structure
 
-/youtube_ai_voice_assistant  
+/youtube_ai_voice_assistant/src  
 ├── **chatbot_ui.py** – Interactive chatbot UI for YouTube search  
 ├── **llm_query_correction.py** – Corrects search queries using GPT-4o  
 ├── **speech_to_text.py** – Records & transcribes voice input using Whisper  
